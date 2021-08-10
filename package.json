@@ -4,6 +4,10 @@
   },
   "dependencies": {
     "@types/faker": "^5.5.7",
+<<<<<<< HEAD
+    "@types/googlemaps": "^3.43.3",
+=======
+>>>>>>> 1893759c39fd4fe608b9cc143765164a92ecc859
     "faker": "^5.5.3"
   }
 }
