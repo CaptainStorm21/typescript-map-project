@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import faker from 'faker';
 import { Mappable } from './CustomMap';
 
@@ -29,16 +28,4 @@ export class Company implements Mappable {
       `
   }
 
-=======
-import faker from 'faker';
-
-export class Company {
-
-  companyName: string;
-  catchPhrase: string;
-  location: {
-    lat: number;
-    lng: number;
-  }
->>>>>>> 1893759c39fd4fe608b9cc143765164a92ecc859
 }
